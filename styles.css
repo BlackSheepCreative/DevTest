@@ -1,0 +1,196 @@
+/* body,
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: visible;
+} */
+/* .banner-image {
+  background-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0.5) 35%,
+      rgba(0, 0, 0, 0)
+    ),
+    url("assets/main-banner.png");
+  height: 41.67%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+} */
+
+* {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+.Group-2 {
+  /* object-fit: fill; */
+  position: relative;
+  top: 95%;
+  left: 0;
+  height: 7.39%;
+  width: 100%;
+}
+
+/*  */
+.Rectangle-2 {
+  background-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0.5) 35%,
+      rgba(0, 0, 0, 0)
+    ),
+    url("assets/main-banner.png");
+  /* Full height */
+  height: 71.55%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.Need-a-dog-sitter {
+  position: absolute;
+  top: 25%;
+  left: 15%;
+  /* width: 411px;
+  height: 28px; */
+  /* margin: 0 93px 5px 0; */
+  font-family: Quicksand;
+  font-size: 5vw;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.Find-a-trusted-sitte {
+  position: absolute;
+  top: 45%;
+  left: 15%;
+  width: 50%;
+  font-family: Quicksand;
+  font-size: 2vw;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.42;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+.Rectangle {
+  position: absolute;
+  top: 65%;
+  left: 15%;
+  /* width: 115.5px;
+  height: 28px; */
+
+  /* margin: 8.5px 208.5px 0 2px; */
+  height: 30px;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 2px;
+  background-color: #de6c17;
+  color: white;
+}
+
+.Learn-More-Copy-3 {
+  font-family: Quicksand;
+
+  font-size: 1.5vw;
+
+  font-weight: bold;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  color: #ffffff;
+}
+
+.Our-Services {
+  height: 28px;
+  /* width: 400px;
+  
+  margin: 258px 41px 5px 650px; */
+  padding-top: 50px;
+  font-family: Quicksand;
+  font-size: 3vw;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #36413c;
+  text-align: center;
+}
+
+.Local-trusted-pet {
+  /* width: 561px;
+  height: 16px;
+  margin: 61px 187.5px 35px 550px; */
+  padding-top: 50px;
+  padding-left: 30%;
+  padding-right: 30%;
+  font-family: Quicksand;
+  font-size: 1.5vw;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.42;
+  letter-spacing: normal;
+  text-align: center;
+  color: #5e6e66;
+  text-align: center;
+}
+
+.fredrik-ohlander-520696-unsplash {
+  width: 190px;
+  height: 133px;
+  margin: 95px 0px 47.5px 111px;
+}
+.mysaell-armendariz-559174-unsplash {
+  width: 190px;
+  height: 133px;
+  margin: 95px 0px 47.5px 300px;
+}
+.tj-kolesnik-506656-unsplash {
+  width: 492px;
+  height: 133px;
+  margin: 94px 0px 47.5px 200px;
+}
+
+.Mask {
+  width: 190px;
+
+  height: 268px;
+
+  margin: 35px 15px 0 60px;
+
+  padding: 0 0 13.5px;
+
+  border-radius: 4px;
+
+  box-shadow: 0 0 2px 0.5px rgba(0, 0, 0, 0.18);
+
+  background-color: #ffffff;
+}
+
+.image1 {
+  float: left;
+}
+.image2 {
+  float: left;
+}
+.image3 {
+  float: right;
+}
