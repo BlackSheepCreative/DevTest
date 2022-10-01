@@ -1,0 +1,101 @@
+:root {
+    --gunmetal: #5e6e66;
+    --charcoal: #36413c;
+    --learn-more: #de6c17;
+}
+
+body {
+    font-family: Quicksand, Arial, Helvetica, sans-serif;
+}
+
+header {}
+
+header .main-bg {
+    background: linear-gradient(to left, rgba(255, 255, 255, 0), #000 35%);
+    background-image: url(assets/main-banner.png);
+    height: 500px;
+    min-height: 100%;
+    background-size: cover;
+    color: #ffffff;
+}
+
+header .main-bg h1 {
+    font-size: 2rem;
+}
+
+header .main-bg .card {
+    background-color: transparent;
+    border: 0;
+}
+
+header .main-bg a.learn-more {
+    background-color: var(--learn-more);
+    color: #ffffff;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+}
+
+.section-title>h2 {
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--charcoal);
+}
+
+.section-title>p {
+    font-size: 1.1rem;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.42;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--gunmetal);
+}
+
+.section-title {}
+
+.section-title {}
+
+.services-area .card {
+    padding: 0;
+}
+
+.card-row .card-img-top {
+    /* width: 11.875rem;
+    height: 8.313rem;
+    margin: 0 0 0.781rem; */
+}
+
+.card-row .card .card-title {
+    color: var(--charcoal);
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+}
+
+.card-row .card .card-body {
+    color: var(--gunmetal);
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+}
+
+a.learn-more {
+    text-decoration: none;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--learn-more);
+}
